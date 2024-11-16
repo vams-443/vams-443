@@ -1,4 +1,4 @@
-<img src="profile2.gif" alt="github-profile-readme-generator">
+<img src="profile2.gif" alt="github-profile-readme-generator" style="height: 1000px; width: 1000px; ">
 <h1 align="center">Hi 👋, I'm Vamshi</h1>
 <h3 align="center">Electronics Engineer</h3>
 
